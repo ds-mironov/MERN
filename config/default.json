@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "i like full stack",
-  "mongoUri": "mongodb+srv://dmitriy:jPQ2PqA6BY3USqjy@cluster0.gpgzl.mongodb.net/app?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://dmitriy:password@cluster0.gpgzl.mongodb.net/app?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
